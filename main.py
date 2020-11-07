@@ -37,4 +37,4 @@ def fingerprint_sha256_router():
     return fing
 
 
-app.run(port=2428)
+app.run()
