@@ -1,2 +1,1 @@
-appdirs==1.4.3
-pygubu==0.9.8.4
+Flask~=1.1.2
