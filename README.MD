@@ -30,7 +30,7 @@ http://fingerdig.heroku.com/fingerprint/sha1
 
 ```code
 # get only fingerprint sha256
-http://fingerdig.heroku.com/fingerprint/sha1
+http://fingerdig.heroku.com/fingerprint/sha256
 ```
 
 ## Contributing
